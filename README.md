@@ -1,5 +1,6 @@
 # Covid-19
 
+
 ## Visualizations ##
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, [Our World in Data](https://ourworldindata.org/)
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, The New York Times, March 22, 2020
