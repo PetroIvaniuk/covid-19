@@ -19,7 +19,6 @@
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
-- [](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-)
 
 ## Conferences ##
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
