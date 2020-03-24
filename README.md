@@ -1,5 +1,4 @@
-# Covid-19
-
+# Covid-19 #
 
 ## Visualizations ##
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, [Our World in Data](https://ourworldindata.org/)
@@ -10,12 +9,18 @@
 - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) by Tomas Pueyo, Medium, March 10, 2020
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, February 6, 2020
 
+## Info ##
+- [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом.
+
 ## Datasets and Competitions ##
 - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 - [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
+
+## Conference ##
+- [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
 
 ## Maps ##
 - [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by Johns Hopkins University (JHU)
