@@ -11,6 +11,7 @@
 
 ## Info ##
 - [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом.
+- [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
 
 ## Datasets and Competitions ##
 - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
@@ -20,7 +21,7 @@
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
 - [](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-)
 
-## Conference ##
+## Conferences ##
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
 
 ## Maps ##
