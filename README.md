@@ -1,14 +1,14 @@
 # Covid-19 #
 
 ## Visualizations ##
-- [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html), **South China Morning Post**
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**
+- [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html), **South China Morning Post**
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, **The New York Times**, March 22, 2020
-- [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, March 16, 2020
+- [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, **[Personal Blog](https://www.meltingasphalt.com)**, March 16, 2020
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020
-- [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) by Tomas Pueyo, **Medium**, March 10, 2020
-- [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, February 6, 2020
+- [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) by Tomas Pueyo, **Blog on Medium**, March 10, 2020
+- [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
 ## Info ##
 - [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
