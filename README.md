@@ -1,6 +1,7 @@
 # Covid-19 #
 
 ## Visualizations ##
+- [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html), **South China Morning Post**
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, [Our World in Data](https://ourworldindata.org/)
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, The New York Times, March 22, 2020
 - [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, March 16, 2020
