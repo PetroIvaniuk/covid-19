@@ -1,10 +1,10 @@
 # Covid-19 #
 
 ## Visualizations ##
-- [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**
-- [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html), **South China Morning Post**
+- [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**, UPDATED DAILY
+- [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) by [SCMP Graphics](https://www.scmp.com/infographic/), **South China Morning Post**, UPDATED DAILY
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, **The New York Times**, March 22, 2020
-- [The Korean clusters. How coronavirus cases exploded in South Korean churches and hospitals](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/) by Marco Hernandez, Simon Scarr and Manas Sharma **Reuters Graphics**, March 20, 2020 
+- [The Korean clusters. How coronavirus cases exploded in South Korean churches and hospitals](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/) by Marco Hernandez, Simon Scarr and Manas Sharma, **Reuters Graphics**, March 20, 2020 
 - [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, **[Personal Blog](https://www.meltingasphalt.com)**, March 16, 2020
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020
@@ -12,7 +12,7 @@
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
 ## Info ##
-- [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
+- [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
 - [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
 
 ## Datasets and Competitions ##
@@ -28,6 +28,7 @@
 
 ## Maps ##
 - [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by Johns Hopkins University (JHU)
+- [Система моніторингу поширення епідемії коронавірусу](https://covid19.rnbo.gov.ua/) створено Апаратом Ради національної безпеки і оборони України
 - [COVID-19](https://maps.mkeda.me/covid/cases)
 
 ## Courses ##
@@ -37,6 +38,7 @@
 
 ## Videos ##
 - [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg) by 3Blue1Brown
+- [Simulating an Epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3Blue1Brown
 
 ## Reviews ##
 - [COVID-19. Огляд аналітичних досліджень. Частина 1](https://medium.com/@petroivanyuk/covid-19-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C-c4370665007)
