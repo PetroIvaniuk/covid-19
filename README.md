@@ -16,8 +16,8 @@
 - [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
 
 ## Datasets and Competitions ##
-- [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2)
-- [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
+- COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4
+- [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
 - [COVID-19 Dataset Award (4/03/20)](https://www.kaggle.com/data/139140)
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
