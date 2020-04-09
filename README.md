@@ -18,9 +18,11 @@
 ## Datasets and Competitions ##
 - COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). In this challenge, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
-- [COVID-19 Dataset Award (4/03/20)](https://www.kaggle.com/data/139140)
+- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
+  - Round 1: Submission deadline is April 16, 2020 at 11:59pm UTC.
+  - Round 2: Submission deadline is June 16, 2020 at 11:59pm UTC.
+- COVID-19 Dataset Award [4/03/20](https://www.kaggle.com/data/139140), [5/04/20](https://www.kaggle.com/data/142091). The goal is to publish datasets that are useful for helping to understand COVID-19.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
 
 ## Conferences ##
