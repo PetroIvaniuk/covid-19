@@ -11,10 +11,6 @@
 - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) by Tomas Pueyo, **Blog on Medium**, March 10, 2020
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
-## Info ##
-- [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
-- [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
-
 ## Datasets and Competitions ##
 - COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). In this challenge, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
@@ -24,6 +20,12 @@
 - COVID-19 Dataset Award [4/03/20](https://www.kaggle.com/data/139140), [5/04/20](https://www.kaggle.com/data/142091). The goal is to publish datasets that are useful for helping to understand COVID-19.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
+- [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data). New York Times Case Data: The New York Times is documenting confirmed Covid-19 cases at the county level.
+- [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset). Researchers at the University of Montreal offer a database of labeled Covid-19 chest X-ray and CT images.
+
+## Info ##
+- [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
+- [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
 
 ## Conferences ##
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
