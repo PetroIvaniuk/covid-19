@@ -8,13 +8,15 @@
 - [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, **[Personal Blog](https://www.meltingasphalt.com)**, March 16, 2020
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020 
-- List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**,
+- List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**:
   - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 1;
-  - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), March 19, 2020;
+  - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), **[fast.ai](fast.ai), March 19, 2020;
   - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca), March 10, 2020.
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
+- [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, March 9, 2010
 
 ## Datasets and Competitions ##
+- [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
 - COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). In this challenge, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
