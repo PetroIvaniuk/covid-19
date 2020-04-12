@@ -34,6 +34,7 @@
 
 ## Conferences ##
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
+-[COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/), March 26-30, 2020. The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
 
 ## Maps ##
 - [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by Johns Hopkins University (JHU)
