@@ -1,14 +1,17 @@
 # Covid-19 #
 
-## Visualizations ##
+## Analytics and Visualizations ##
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**, UPDATED DAILY
 - [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) by [SCMP Graphics](https://www.scmp.com/infographic/), **South China Morning Post**, UPDATED DAILY
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, **The New York Times**, March 22, 2020
 - [The Korean clusters. How coronavirus cases exploded in South Korean churches and hospitals](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/) by Marco Hernandez, Simon Scarr and Manas Sharma, **Reuters Graphics**, March 20, 2020 
 - [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, **[Personal Blog](https://www.meltingasphalt.com)**, March 16, 2020
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
-- [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020
-- [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) by Tomas Pueyo, **Blog on Medium**, March 10, 2020
+- [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020 
+- List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**,
+  - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca), March 10, 2020;
+  - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), March 19, 2020;
+  - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 1
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
 ## Datasets and Competitions ##
