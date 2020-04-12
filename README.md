@@ -10,10 +10,10 @@
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020 
 - List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**:
   - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 1;
-  - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), **[fast.ai](fast.ai)**, March 19, 2020;
+  - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), March 19, 2020;
   - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca), March 10, 2020.
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
-- [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, March 9, 2010
+- [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, **[fast.ai](fast.ai)**, March 9, 2010
 
 ## Datasets and Competitions ##
 - [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
