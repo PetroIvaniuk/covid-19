@@ -17,11 +17,11 @@
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
 ## Datasets and Competitions ##
-- [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
-- [Resource Library from Social Media for Public Health](http://www.socialmediaforpublichealth.org/covid-19/resources/). This page collects links to resources for academics and other investigators, including websites of our collaborators and academic partners, and datasets pertinent to the COVID-19 pandemic.
+- [Resource Library](https://c19hcc.org/resource-library) by COVID-19 Healthcare Coalition. In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
+- [Resource Library](http://www.socialmediaforpublichealth.org/covid-19/resources/) by COVID-19 Healthcare Coalition. This page collects links to resources for academics and other investigators, including websites of our collaborators and academic partners, and datasets pertinent to the COVID-19 pandemic.
 - [Mobility Trends Reports. Apple](https://www.apple.com/covid19/mobility). Learn about COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps. 
 - COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4), [COVID19 Local US-CA Forecasting Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/). In this challenges, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
-- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
+- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). [Dataset page](https://pages.semanticscholar.org/coronavirus-research). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
   - Round 1: Submission deadline is April 16, 2020 at 11:59pm UTC.
   - Round 2: Submission deadline is June 16, 2020 at 11:59pm UTC.
 - COVID-19 Dataset Award [4/03/20](https://www.kaggle.com/data/139140), [5/04/20](https://www.kaggle.com/data/142091). The goal is to publish datasets that are useful for helping to understand COVID-19.
@@ -40,6 +40,12 @@
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020. [Video](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/video-archive)
 - [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/), March 26-30, 2020. The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
 
+## Courses ##
+- [CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19). This project class investigates and models COVID-19 using tools from data science and machine learning. 
+- [Коронавірусна інфекція: факти проти паніки](https://courses.prometheus.org.ua/courses/course-v1:Prometheus+COVID101+2020_T1/about) on [Prometheus](https://edx.prometheus.org.ua/)
+- [Science Matters: Let's Talk About COVID-19](https://www.coursera.org/learn/covid-19) by Imperial College London on [Coursera](https://www.coursera.org/)
+- [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) by London School of Hygiene & Tropical Medicine on [FutureLearn](https://www.futurelearn.com)
+
 ## Info ##
 - [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
 - [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
@@ -48,11 +54,6 @@
 - [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by Johns Hopkins University (JHU)
 - [Система моніторингу поширення епідемії коронавірусу](https://covid19.rnbo.gov.ua/) створено Апаратом Ради національної безпеки і оборони України
 - [COVID-19](https://maps.mkeda.me/covid/cases)
-
-## Courses ##
-- [Коронавірусна інфекція: факти проти паніки](https://courses.prometheus.org.ua/courses/course-v1:Prometheus+COVID101+2020_T1/about) on [Prometheus](https://edx.prometheus.org.ua/)
-- [Science Matters: Let's Talk About COVID-19](https://www.coursera.org/learn/covid-19) by Imperial College London on [Coursera](https://www.coursera.org/)
-- [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) by London School of Hygiene & Tropical Medicine on [FutureLearn](https://www.futurelearn.com)
 
 ## Reviews ##
 - [COVID-19. Огляд аналітичних досліджень. Частина 1](https://medium.com/@petroivanyuk/covid-19-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C-c4370665007)
