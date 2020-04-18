@@ -1,6 +1,7 @@
 # Covid-19 #
 
 ## Analytics and Visualizations ##
+- [5 Ways Data Scientists Can Help Respond to COVID-19 and 5 Actions to Avoid](https://towardsdatascience.com/5-ways-data-scientists-can-help-respond-to-covid-19-and-5-actions-to-avoid-d2accab283d1)
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**, UPDATED DAILY
 - [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) by [SCMP Graphics](https://www.scmp.com/infographic/), **South China Morning Post**, UPDATED DAILY
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, **The New York Times**, March 22, 2020
@@ -38,6 +39,7 @@
 - [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
 
 ## Conferences ##
+- [NLP COVID-19 Workshop an emergency workshop at ACL 2020](https://www.nlpcovid19workshop.org/). We invite submissions related to any aspect of natural language processing (NLP) applied to combat the COVID-19 pandemic, in an open, rapid review format that will allow this active and late-breaking research to be shared and discussed, July 9-10, 2020
 - [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
 - [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/), March 26-30, 2020. The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
 
