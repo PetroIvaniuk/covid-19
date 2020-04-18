@@ -1,6 +1,7 @@
 # Covid-19 #
 
 ## Analytics and Visualizations ##
+- [How ML6 built a multilingual COVID-19 assistant powered by NLP](https://blog.ml6.eu/how-ml6-built-a-multilingual-covid-19-assistant-powered-by-nlp-9c75bc4ea0c1)
 - [5 Ways Data Scientists Can Help Respond to COVID-19 and 5 Actions to Avoid](https://towardsdatascience.com/5-ways-data-scientists-can-help-respond-to-covid-19-and-5-actions-to-avoid-d2accab283d1)
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**, UPDATED DAILY
 - [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) by [SCMP Graphics](https://www.scmp.com/infographic/), **South China Morning Post**, UPDATED DAILY
