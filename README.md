@@ -18,6 +18,7 @@
 
 ## Datasets and Competitions ##
 - [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
+- [Resource Library from Social Media for Public Health](http://www.socialmediaforpublichealth.org/covid-19/resources/). This page collects links to resources for academics and other investigators, including websites of our collaborators and academic partners, and datasets pertinent to the COVID-19 pandemic.
 - [Mobility Trends Reports. Apple](https://www.apple.com/covid19/mobility). Learn about COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps. 
 - COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4), [COVID19 Local US-CA Forecasting Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/). In this challenges, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
@@ -34,14 +35,14 @@
 - [Simulating an Epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3Blue1Brown
 - [Аналітика даних episode 1 - імітаційне моделювання розповсюдження коронавірусу](https://www.youtube.com/watch?v=HnUmSxHvSSY) by Oleksandr Romanko 
 
+## Conferences ##
+- [NLP COVID-19 Workshop an emergency workshop at ACL 2020](https://www.nlpcovid19workshop.org/). We invite submissions related to any aspect of natural language processing (NLP) applied to combat the COVID-19 pandemic, in an open, rapid review format that will allow this active and late-breaking research to be shared and discussed, July 9-10, 2020
+- [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020. [Video](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/video-archive)
+- [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/), March 26-30, 2020. The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
+
 ## Info ##
 - [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
 - [Daily level information on the affected people from Ministry of Healthcare (Ukraine)](https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-) 
-
-## Conferences ##
-- [NLP COVID-19 Workshop an emergency workshop at ACL 2020](https://www.nlpcovid19workshop.org/). We invite submissions related to any aspect of natural language processing (NLP) applied to combat the COVID-19 pandemic, in an open, rapid review format that will allow this active and late-breaking research to be shared and discussed, July 9-10, 2020
-- [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) will address a developing public health crisis, April 1, 2020
-- [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/), March 26-30, 2020. The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic.
 
 ## Maps ##
 - [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by Johns Hopkins University (JHU)
