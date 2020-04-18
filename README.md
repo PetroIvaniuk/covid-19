@@ -18,7 +18,7 @@
 ## Datasets and Competitions ##
 - [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
 - [Mobility Trends Reports. Apple](https://www.apple.com/covid19/mobility). Learn about COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps. 
-- COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/). In this challenges, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
+- COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4), [COVID19 Local US-CA Forecasting Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/). In this challenges, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
   - Round 1: Submission deadline is April 16, 2020 at 11:59pm UTC.
   - Round 2: Submission deadline is June 16, 2020 at 11:59pm UTC.
@@ -27,6 +27,11 @@
 - [Coronavirus Deep Learning Competition. Announcement](https://www.youtube.com/watch?v=1LJgkovowgA). [Results](https://www.sage-health.org/coronavirus/)
 - [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data). New York Times Case Data: The New York Times is documenting confirmed Covid-19 cases at the county level.
 - [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset). Researchers at the University of Montreal offer a database of labeled Covid-19 chest X-ray and CT images.
+
+## Videos ##
+- [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg) by 3Blue1Brown
+- [Simulating an Epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3Blue1Brown
+- [Аналітика даних episode 1 - імітаційне моделювання розповсюдження коронавірусу](https://www.youtube.com/watch?v=HnUmSxHvSSY) by Oleksandr Romanko 
 
 ## Info ##
 - [Що треба знати про новий коронавірус?](https://covid19.com.ua/) Відповіді на основні запитання про COVID-19 – захворювання, викликане новим коронавірусом створено МОЗ. [Офіційний телеграм канал МОЗ](https://t.me/COVID19_Ukraine)
@@ -45,10 +50,6 @@
 - [Коронавірусна інфекція: факти проти паніки](https://courses.prometheus.org.ua/courses/course-v1:Prometheus+COVID101+2020_T1/about) on [Prometheus](https://edx.prometheus.org.ua/)
 - [Science Matters: Let's Talk About COVID-19](https://www.coursera.org/learn/covid-19) by Imperial College London on [Coursera](https://www.coursera.org/)
 - [COVID-19: Tackling the Novel Coronavirus](https://www.futurelearn.com/courses/covid19-novel-coronavirus) by London School of Hygiene & Tropical Medicine on [FutureLearn](https://www.futurelearn.com)
-
-## Videos ##
-- [Exponential growth and epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg) by 3Blue1Brown
-- [Simulating an Epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3Blue1Brown
 
 ## Reviews ##
 - [COVID-19. Огляд аналітичних досліджень. Частина 1](https://medium.com/@petroivanyuk/covid-19-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D1%8C-c4370665007)
