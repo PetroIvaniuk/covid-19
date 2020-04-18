@@ -17,8 +17,8 @@
 
 ## Datasets and Competitions ##
 - [Resource Library](https://c19hcc.org/resource-library). In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
-- COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). In this challenge, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
-- COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/)
+- [Mobility Trends Reports. Apple](https://www.apple.com/covid19/mobility). Learn about COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps. 
+- COVID19 Global Forecasting [Week 1](https://www.kaggle.com/c/covid19-global-forecasting-week-1), [Week 2](https://www.kaggle.com/c/covid19-global-forecasting-week-2), [Week 3](https://www.kaggle.com/c/covid19-global-forecasting-week-3), [Week 4](https://www.kaggle.com/c/covid19-global-forecasting-week-4). COVID19 Local US-CA Forecasting [Week 1](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1/). In this challenges, you will be predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates.
 - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). Answer key questions using natural language processing to help the world to understand COVID-19 faster. 
   - Round 1: Submission deadline is April 16, 2020 at 11:59pm UTC.
   - Round 2: Submission deadline is June 16, 2020 at 11:59pm UTC.
