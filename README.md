@@ -17,6 +17,10 @@
 - [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, **[fast.ai](https://www.fast.ai)**, March 9, 2010
 - [Coronavirus cases in Singapore: What we know so far](https://www.straitstimes.com/multimedia/graphics/2020/02/spore-virus-cases/index.html) by Chee Wei Xian, Thong Yong Jun, Lee Pei Jie and Tampus Charles, **The Straits Time**, February 6, 2020
 
+### Ukraine Language ###
+ - [Літаки і коронавірус. Як Україна та світ закривали небо (Інфографіка)](https://texty.org.ua/articles/100799/litaky-i-koronavirus-chy-vchasno-ukrayina-zakryla-nebo/) створено Надією Романенко, **[Texty](https://texty.org.ua)**, April 21, 2020
+ - [Про моделювання поширення COVID-19](https://dou.ua/forums/topic/30150/) створено Богданом Павлишенко, April 2, 2020
+ 
 ## Datasets and Competitions ##
 - [Resource Library](https://c19hcc.org/resource-library) by COVID-19 Healthcare Coalition. In this site you can find a various data and insights gathered from healthcare organizations, technology firms, nonprofits, academia, and startups.
 - [Resource Library](http://www.socialmediaforpublichealth.org/covid-19/resources/) by COVID-19 Healthcare Coalition. This page collects links to resources for academics and other investigators, including websites of our collaborators and academic partners, and datasets pertinent to the COVID-19 pandemic.
