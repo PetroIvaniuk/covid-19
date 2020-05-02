@@ -5,13 +5,17 @@
 - [5 Ways Data Scientists Can Help Respond to COVID-19 and 5 Actions to Avoid](https://towardsdatascience.com/5-ways-data-scientists-can-help-respond-to-covid-19-and-5-actions-to-avoid-d2accab283d1)
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina, **[Our World in Data](https://ourworldindata.org/)**, UPDATED DAILY
 - [Coronavirus: the new disease Covid-19 explained](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) by [SCMP Graphics](https://www.scmp.com/infographic/), **South China Morning Post**, UPDATED DAILY
+- [Making sense of COVID19 through simulations](http://www.r2d3.us/covid-19/), **[r2d3](http://www.r2d3.us)**, March 31, 2020
 - [How the Virus Got Out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) by Jin Wu, Weiyi Cai, Derek Watkins and James Glanz, **The New York Times**, March 22, 2020
 - [The Korean clusters. How coronavirus cases exploded in South Korean churches and hospitals](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/) by Marco Hernandez, Simon Scarr and Manas Sharma, **Reuters Graphics**, March 20, 2020 
 - [Outbreak](https://www.meltingasphalt.com/interactive/outbreak/) by Kevin Simler, **[Personal Blog](https://www.meltingasphalt.com)**, March 16, 2020
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020 
 - List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**:
-  - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 1;
+  - [Coronavirus: How to Do Testing and Contact Tracing](https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e), April 28;
+  - [Coronavirus: The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343), April 23;
+  - [Coronavirus: Learning How to Dance](https://medium.com/@tomaspueyo/coronavirus-learning-how-to-dance-b8420170203e), April 20;
+  - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 2;
   - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), March 19, 2020;
   - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca), March 10, 2020.
 - [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, **[fast.ai](https://www.fast.ai)**, March 9, 2010
