@@ -12,10 +12,10 @@
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) by Harry Stevens, **The Washington Post**, March 14, 2020
 - [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) by [Nicholas Kristof](https://www.nytimes.com/column/nicholas-kristof) and [Stuart A. Thompson](https://www.nytimes.com/by/stuart-a-thompson), **The New York Times**, March 13, 2020 
 - List of interesting articles created by [Tomas Pueyo](https://medium.com/@tomaspueyo) on **Medium**:
-  - [Coronavirus: How to Do Testing and Contact Tracing](https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e), April 28;
-  - [Coronavirus: The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343), April 23;
-  - [Coronavirus: Learning How to Dance](https://medium.com/@tomaspueyo/coronavirus-learning-how-to-dance-b8420170203e), April 20;
-  - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 2;
+  - [Coronavirus: How to Do Testing and Contact Tracing](https://medium.com/@tomaspueyo/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e), April 28, 2020;
+  - [Coronavirus: The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343), April 23, 2020;
+  - [Coronavirus: Learning How to Dance](https://medium.com/@tomaspueyo/coronavirus-learning-how-to-dance-b8420170203e), April 20, 2020;
+  - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9), April 2, 2020;
   - [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56), March 19, 2020;
   - [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca), March 10, 2020.
 - [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus/) by Jeremy Howard and Rachel Thomas, **[fast.ai](https://www.fast.ai)**, March 9, 2010
